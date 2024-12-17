@@ -14,7 +14,6 @@ public class KeyboardInputs implements KeyListener {
 		this.gamePanel = gamePanel;
 	}
 
-	@SuppressWarnings("incomplete-switch")
 	@Override
 	public void keyReleased(KeyEvent e) {
 		switch (Gamestate.state) {
@@ -24,7 +23,6 @@ public class KeyboardInputs implements KeyListener {
 		}
 	}
 
-	@SuppressWarnings("incomplete-switch")
 	@Override
 	public void keyPressed(KeyEvent e) {
 		switch (Gamestate.state) {

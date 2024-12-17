@@ -24,7 +24,6 @@ public class MouseInputs implements MouseListener, MouseMotionListener {
 		}
 	}
 
-	@SuppressWarnings("incomplete-switch")
 	@Override
 	public void mouseMoved(MouseEvent e) {
 		switch (Gamestate.state) {
@@ -34,7 +33,6 @@ public class MouseInputs implements MouseListener, MouseMotionListener {
 		}
 	}
 
-	@SuppressWarnings("incomplete-switch")
 	@Override
 	public void mouseClicked(MouseEvent e) {
 		switch (Gamestate.state) {
@@ -42,7 +40,6 @@ public class MouseInputs implements MouseListener, MouseMotionListener {
 		}
 	}
 
-	@SuppressWarnings("incomplete-switch")
 	@Override
 	public void mousePressed(MouseEvent e) {
 		switch (Gamestate.state) {
@@ -52,7 +49,6 @@ public class MouseInputs implements MouseListener, MouseMotionListener {
 		}
 	}
 
-	@SuppressWarnings("incomplete-switch")
 	@Override
 	public void mouseReleased(MouseEvent e) {
 		switch (Gamestate.state) {
@@ -64,12 +60,10 @@ public class MouseInputs implements MouseListener, MouseMotionListener {
 
 	@Override
 	public void mouseEntered(MouseEvent e) {
-		// Not In use
 	}
 
 	@Override
 	public void mouseExited(MouseEvent e) {
-		// Not In use
 	}
 
 }
