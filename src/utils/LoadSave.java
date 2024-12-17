@@ -11,7 +11,8 @@ import javax.imageio.ImageIO;
 
 public class LoadSave {
 
-	public static final String PLAYER_ATLAS = "player_sprites.png";
+//	public static final String PLAYER_ATLAS = "player_sprites.png";
+	public static final String PLAYER_ATLAS = "test-animation3.png";
 	public static final String LEVEL_ATLAS = "outside_sprites.png";
 	public static final String MENU_BUTTONS = "button_atlas.png";
 	public static final String MENU_BACKGROUND = "menu_background.png";
@@ -36,7 +37,7 @@ public class LoadSave {
 	public static final String QUESTION_ATLAS = "question_atlas.png";
 	public static final String EXCLAMATION_ATLAS = "exclamation_atlas.png";
 	public static final String SHARK_ATLAS = "shark_atlas.png";
-	public static final String CREDITS = "credits_list.png";
+	public static final String CREDITS = "credits.jpg";
 	public static final String GRASS_ATLAS = "grass_atlas.png";
 	public static final String TREE_ONE_ATLAS = "tree_one_atlas.png";
 	public static final String TREE_TWO_ATLAS = "tree_two_atlas.png";
