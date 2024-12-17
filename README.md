@@ -7,4 +7,6 @@ TRP: The Random Platformer
 - Jabagat, Deo Seth S.
 - Sabalza, Steven
 
+#### BSIT 3B
+
 ### Tutorial From: Kaarin Gaming
