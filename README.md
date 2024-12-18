@@ -23,6 +23,6 @@ In partial fulfillment of the requirements for **IT 373A - Event Driven Programm
 ### How to play through this repo:
 1. Clone/download this repo
 2. In your IDE, set res as **resource folder** and set src as **source folder**
-3. Play and enjoy ig
+3. Run MainClass.java and enjoy ig
 
-#### PS: No copyright infringement intended. All sprites and soundtrack belong to the rightful owner...
+#### PS: No copyright infringement intended. All sprites and soundtrack belong to the rightful owner :>
