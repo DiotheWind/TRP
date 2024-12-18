@@ -281,6 +281,7 @@ public class Playing extends State implements Statemethods {
 	}
 
 	private void setDrawRainBoolean() {
+		// 20% chance of rain every time a level loads
 		if (rnd.nextFloat() >= 0.8f)
 			drawRain = true;
 	}
