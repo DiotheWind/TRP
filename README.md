@@ -25,4 +25,6 @@ In partial fulfillment of the requirements for **IT 373A - Event Driven Programm
 2. In your IDE, set res as **resource folder** and set src as **source folder**
 3. Run MainClass.java and enjoy ig
 
+**Note:** Don't use VSCode, that IDE is just not friendly towards Java projects xD
+
 #### PS: No copyright infringement intended. All sprites and soundtrack belong to the rightful owner :>
