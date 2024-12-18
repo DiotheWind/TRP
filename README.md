@@ -11,8 +11,6 @@ TRP: The Random Platformer
 
 In partial fulfillment of the requirements for **IT 373A - Event Driven Programming**.
 
-### Tutorial From: Kaarin Gaming
-
 ### Controls:
 - **A/D**: Move Character
 - **Space**: Jump
