@@ -9,7 +9,7 @@ TRP: The Random Platformer
 
 #### BSIT 3B
 
-In partial fulfillment of the requirements for **IT 373A - Event Driven Programming**.
+In partial fulfillment of the requirements for **IT 373A: Event-Driven Programming**.
 
 ### Controls:
 - **A/D**: Move Character
